@@ -1,0 +1,34 @@
+﻿<?xml version="1.0"?>
+<Philips>
+  <Oxygen>
+    <SPO2>91</SPO2>
+    <SPO2>92</SPO2>
+    <SPO2>93</SPO2>
+    <SPO2>94</SPO2>
+    <SPO2>95</SPO2>
+    <SPO2>96</SPO2>
+    <SPO2>97</SPO2>
+    <SPO2>98</SPO2>
+  </Oxygen>
+  <Pulse_rate>
+    <Pulse_rate_value>39</Pulse_rate_value>
+    <Pulse_rate_value>61</Pulse_rate_value>
+    <Pulse_rate_value>62</Pulse_rate_value>
+    <Pulse_rate_value>63</Pulse_rate_value>
+    <Pulse_rate_value>64</Pulse_rate_value>
+    <Pulse_rate_value>65</Pulse_rate_value>
+    <Pulse_rate_value>66</Pulse_rate_value>
+    <Pulse_rate_value>67</Pulse_rate_value>
+  </Pulse_rate>
+  <Temperature>
+    <Temperature_Value>62</Temperature_Value>
+    <Temperature_Value>63</Temperature_Value>
+    <Temperature_Value>64</Temperature_Value>
+    <Temperature_Value>65</Temperature_Value>
+    <Temperature_Value>66</Temperature_Value>
+    <Temperature_Value>67</Temperature_Value>
+    <Temperature_Value>68</Temperature_Value>
+    <Temperature_Value>69</Temperature_Value>
+  </Temperature>
+
+</Philips>
