@@ -1,0 +1,15 @@
+C:\Users\320066905\source\repos\AlertSystemServer\AlertSystemServer\bin\Debug\AlertSystemServer.exe.config
+C:\Users\320066905\source\repos\AlertSystemServer\AlertSystemServer\bin\Debug\AlertSystemServer.exe
+C:\Users\320066905\source\repos\AlertSystemServer\AlertSystemServer\bin\Debug\AlertSystemServer.pdb
+C:\Users\320066905\source\repos\AlertSystemServer\AlertSystemServer\bin\Debug\AsyncIO.dll
+C:\Users\320066905\source\repos\AlertSystemServer\AlertSystemServer\bin\Debug\ColorConsole.dll
+C:\Users\320066905\source\repos\AlertSystemServer\AlertSystemServer\bin\Debug\Colorful.Console.dll
+C:\Users\320066905\source\repos\AlertSystemServer\AlertSystemServer\bin\Debug\NetMQ.dll
+C:\Users\320066905\source\repos\AlertSystemServer\AlertSystemServer\bin\Debug\AsyncIO.pdb
+C:\Users\320066905\source\repos\AlertSystemServer\AlertSystemServer\bin\Debug\NetMQ.pdb
+C:\Users\320066905\source\repos\AlertSystemServer\AlertSystemServer\bin\Debug\NetMQ.xml
+C:\Users\320066905\source\repos\AlertSystemServer\AlertSystemServer\obj\Debug\AlertSystemServer.csproj.CoreCompileInputs.cache
+C:\Users\320066905\source\repos\AlertSystemServer\AlertSystemServer\obj\Debug\AlertSystemServer.csproj.CopyComplete
+C:\Users\320066905\source\repos\AlertSystemServer\AlertSystemServer\obj\Debug\AlertSystemServer.exe
+C:\Users\320066905\source\repos\AlertSystemServer\AlertSystemServer\obj\Debug\AlertSystemServer.pdb
+C:\Users\320066905\source\repos\AlertSystemServer\AlertSystemServer\obj\Debug\AlertSystemServer.csprojAssemblyReference.cache
