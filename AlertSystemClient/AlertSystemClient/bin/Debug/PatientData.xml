@@ -21,14 +21,14 @@
     <Pulse_rate_value>67</Pulse_rate_value>
   </Pulse_rate>
   <Temperature>
-    <Temperature_Value>62</Temperature_Value>
-    <Temperature_Value>63</Temperature_Value>
-    <Temperature_Value>64</Temperature_Value>
-    <Temperature_Value>65</Temperature_Value>
-    <Temperature_Value>66</Temperature_Value>
-    <Temperature_Value>67</Temperature_Value>
-    <Temperature_Value>68</Temperature_Value>
-    <Temperature_Value>69</Temperature_Value>
+    <Temperature_Value>92</Temperature_Value>
+    <Temperature_Value>93</Temperature_Value>
+    <Temperature_Value>94</Temperature_Value>
+    <Temperature_Value>95</Temperature_Value>
+    <Temperature_Value>96</Temperature_Value>
+    <Temperature_Value>97</Temperature_Value>
+    <Temperature_Value>98</Temperature_Value>
+    <Temperature_Value>99</Temperature_Value>
   </Temperature>
 
 </Philips>
