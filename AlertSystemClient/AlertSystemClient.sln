@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlertSystemClient", "AlertSystemClient\AlertSystemClient.csproj", "{98FA2593-75B7-4B4A-AD89-D446417EFF70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlertSystemClient.Tests", "AlertSystemClient.Tests\AlertSystemClient.Tests.csproj", "{01A8C30E-E6F7-4D28-BB02-47BCACEA66BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98FA2593-75B7-4B4A-AD89-D446417EFF70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98FA2593-75B7-4B4A-AD89-D446417EFF70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98FA2593-75B7-4B4A-AD89-D446417EFF70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98FA2593-75B7-4B4A-AD89-D446417EFF70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01A8C30E-E6F7-4D28-BB02-47BCACEA66BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A8C30E-E6F7-4D28-BB02-47BCACEA66BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A8C30E-E6F7-4D28-BB02-47BCACEA66BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A8C30E-E6F7-4D28-BB02-47BCACEA66BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58872D64-26D3-478B-A4C1-2542FCD38C52}
+	EndGlobalSection
+EndGlobal

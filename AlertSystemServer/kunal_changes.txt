@@ -1,0 +1,5 @@
+1.encapsulation- data hiding.
+2.structure of string can be made for more than two strings.
+3.do not parse file sagain and again .
+4.send patient data send in structure form .
+

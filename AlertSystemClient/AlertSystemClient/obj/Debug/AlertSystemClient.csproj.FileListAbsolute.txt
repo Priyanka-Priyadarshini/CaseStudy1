@@ -1,0 +1,13 @@
+C:\Users\320066905\source\repos\AlertSystemClient\AlertSystemClient\bin\Debug\AlertSystemClient.exe.config
+C:\Users\320066905\source\repos\AlertSystemClient\AlertSystemClient\bin\Debug\AlertSystemClient.exe
+C:\Users\320066905\source\repos\AlertSystemClient\AlertSystemClient\bin\Debug\AlertSystemClient.pdb
+C:\Users\320066905\source\repos\AlertSystemClient\AlertSystemClient\bin\Debug\AsyncIO.dll
+C:\Users\320066905\source\repos\AlertSystemClient\AlertSystemClient\bin\Debug\NetMQ.dll
+C:\Users\320066905\source\repos\AlertSystemClient\AlertSystemClient\bin\Debug\AsyncIO.pdb
+C:\Users\320066905\source\repos\AlertSystemClient\AlertSystemClient\bin\Debug\NetMQ.pdb
+C:\Users\320066905\source\repos\AlertSystemClient\AlertSystemClient\bin\Debug\NetMQ.xml
+C:\Users\320066905\source\repos\AlertSystemClient\AlertSystemClient\obj\Debug\AlertSystemClient.csprojAssemblyReference.cache
+C:\Users\320066905\source\repos\AlertSystemClient\AlertSystemClient\obj\Debug\AlertSystemClient.csproj.CoreCompileInputs.cache
+C:\Users\320066905\source\repos\AlertSystemClient\AlertSystemClient\obj\Debug\AlertSystemClient.csproj.CopyComplete
+C:\Users\320066905\source\repos\AlertSystemClient\AlertSystemClient\obj\Debug\AlertSystemClient.exe
+C:\Users\320066905\source\repos\AlertSystemClient\AlertSystemClient\obj\Debug\AlertSystemClient.pdb
